@@ -7,4 +7,4 @@ My research interests include **single-cell genomics**, **multi-omics** and **co
 
 If you'd like to connect, feel free to reach out at **tundup@ils.res.in**.  
 
-More about me on [tundup.github.io](https://tundup.github.io)
+More about me on [peepthecode.github.io](https://peepthecode.github.io)
