@@ -1,13 +1,20 @@
-### 👋 Hello, and welcome to my GitHub profile
+#### Hello!
 
-I am a Doctoral Researcher in Computational Biology at the BRIC Institute of Life Sciences, Bhubaneswar. My research focuses on leveraging systems biology, single-cell genomics, and computational modeling to better understand disease mechanisms.
+I'm **Tundup**, a Doctoral Researcher in **Computational Biology** at the **BRIC Institute of Life Sciences, Bhubaneswar**.  
 
----
+My research focuses on **single-cell genomics**, **multi-omics** and **computational modeling** to investigate and better understand disease mechanisms. I am particularly interested in developing data-driven approaches to explore biological complexity and uncover mechanistic insights.
 
-### 📫 Contact
-Feel free to connect with me on: 
-- Email: tundup@ils.res.in
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tundup&show_icons=true&theme=dark)
 
+#### Contact  
+If you'd like to connect, feel free to reach out:  
+📧 **tundup@ils.res.in**  
+
+
+
+#### More about me on:  
+🔗 **www.tundup.github.io**
+
+
+
+Thanks for visiting!
